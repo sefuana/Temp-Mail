@@ -1,2 +1,5 @@
 python-telegram-bot==21.6
 aiohttp==3.10.5
+urllib3
+requests
+telegram
